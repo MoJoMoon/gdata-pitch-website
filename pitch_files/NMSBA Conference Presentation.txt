@@ -1,0 +1,427 @@
+Ethical AI Data Capture 
+& 
+ Monetization of Biometric Datasets
+Speaker: Morgan Jones
+G-Data Labs
+
+NMSBA World Forum 2024
+Hi, my name is Morgan Jones.
+
+Thank you for sharing your time with me today as I talk about Ethical AI Data Capture and the Monetization of Biometric Datasets.
+
+
+
+Introductions
+
+Morgan Jones: 
+Founder of G-Data Labs
+
+It’s a pleasure to speak with you here in Los Angeles. I called LA home for a time in my younger years and especially enjoyed the arts like painting. 
+
+This is a photo of me with a painting of mine featured at the Carter Sexton Arts in NoHo.
+While living an artist’s lifestyle I supported myself financially with many types of work, either as a waiter in NoHo at MP’s Soul Food restaurant, or as a Sales Assistant at boutiques like Celine on Rodeo Dr.
+
+Introductions
+My favorite role of all was teaching. I taught English both online and abroad, and while teaching I came across the concept of Machine Learning, and it posed the question - 
+
+“How much benefit could Machine Learning bring to education on a global scale?”
+
+The potential benefit this technology could have in people’s lives took me on a path into the world of Data Science.
+
+₍₀₎
+So I explored Machine Learning algorithms through self-study, online courses and bootcamps, until in 2019 when I built TAAI, the Online Teacher’s Assistant AI for an English Language Company I worked for. The system of models used Microsoft Azure’s suite to translate for a foreign language instructor when students sometimes use their primary language. 
+
+The system could observe the class room and output probabilities about student learning, and engagement. 
+
+It could also offer realtime suggestions for activities to boost comprehension, and create learning reports for students and parents.
+
+₍₁₎
+After developing this prototype I continued to explore Generative Artificial Intelligence. 
+
+And while at the Flatiron School’s Data Science 2020 cohort I was particularly interested in how this technology would impact diversity inclusion in media. 
+
+So I worked on a system of models that could create life-like faces, and mask them on the faces of people in content. At that time this concept was a bit more novel and referred to as “deepfakes” so I developed a brief introduction to the idea for people to understand that I would like to share with you.
+
+₍₁₎
+I broadcast this video online and conducted a survey and here are some demographics of my sample. I feel there is healthy diversity among age and ethnicity especially.
+
+Traditional Systems + AI 
+
+seem preferred for Online Learning.
+₍₁₎
+Online Learning Preference
+When asked which system people preferred for online learning, the majority of respondents wanted the option for both original content and AI generated content.
+
+Traditional Systems + AI seem preferred for  Movies & TV. 
+
+While AI only preferred relatively higher for Ads.
+₍₁₎
+Movies & TV vs. Ad Preference
+Likewise traditional systems in combination with AI were preferred for movies and TV, while AI only systems were more popular for Ads compared to movies and tv shows.
+
+64.4% of respondents are interested in seeing
+themselves in television and films.
+₍₁₎
+I found that many people were interested in augmenting their favorite television shows and movies, with most people choosing to see themselves or loved ones represented in their content.
+
+Could Generative AI promote Diversity Inclusion in Media?
+83% say YES GenAI could increase the amount of diversity within media
+₍₁₎
+Overall 83% of the respondents felt that Generative AI could promote Diversity Inclusion in Media.
+
+And I found this fascinating!That work was eye opening for me. I felt that there was something transformative on the horizon. Something that could bring more fairness into people's’ lives if used effectively. 
+
+“We definitely messed up on the image generation,...mostly due to just not thorough testing.”
+
+Sergey Brin
+	Google Co-Founder
+₍₂₎
+Now fast forward to today however where we see unexpected results of Diversity Inclusion. For example in this past month a cutting-edge model, Gemini was released by Google and the model would not output images of certain races of people when prompted. 
+
+The model was also unable to generate historically accurate images of the founding members of the US. To this, Google co-founder Sergey Brin is quoted to having said “they definitely messed up on the image generation…mostly due to just not thorough testing.” 
+This showcases even more the importance in understanding the interaction between AI models, people, and culture.
+
+So I continued to work as an instructor, and focused on teaching and developing curriculum for Data Science and Machine Learning.
+
+Then in 2022, I began G-Data Labs.
+
+https://www.axios.com/2024/03/01/meta-ai-google-gemini-black-founding-fathers
+
+https://knowyourmeme.com/photos/2762250-google-gemini-diverse-prompt-injection 
+
+
+
+
+G-Data Labs 
+Mission Statement
+
+
+“To incorporate consent & compensation for using a person’s GenAI data.”
+We are an AI and Biometrics lab based in Atlanta, Ga. and motivated by that earlier work and vision I shared, we “Want to incorporate consent and compensation for using a person’s Generative AI data.”
+
+What does that mean?
+
+AI + Bio = G-Data
+G-Data Formula
+I can describe it in terms of a formula, where you combine AI with people’s Biometric Data in a way that educates them, entertains them, earns for them, and overall empowers them.
+
+AI + Bio = G-Data
+G-Data Formula
+GenAI
+I’d like to start with the AI term, here I am referring to the Deep Learning space in general and more specifically Generative Artificial Intelligence. While there are many deep learning models that can do amazing things, perhaps the most famous is OpenAI’s ChatGPT.
+
+Many consider what makes this model so effective at generating desired output iis that it was fine-tuned on human preference data. Its architecture is considered a successful example of Reinforcement Learning with Human Feedback, or RLHF.
+
+Learning to summarize from Human Feedback
+₍₃₎
+This is a diagram from OpenAI’s Paper “Learning to Summarize from Human Feedback” published in 2020 detailing the process that optimized ChatGPT to be so effective at producing desired output.
+
+In the paper, OpenAI describes fine tuning models to summarize text more effectively. 
+
+Reinforcement Learning with Human Feedback
+₍₃₎
+They start with a post from the Reddit Too Long Did Not Read or TLDR dataset. 
+
+Next they have various base models called policies summarize the post, each focusing to varying degrees on different components of the post like key facts and narrative flow.
+
+Now this step is very important, the summaries are then presented to human evaluators who judge the summaries for their quality. 
+
+
+
+
+Reinforcement Learning with Human Feedback
+₍₃₎
+After several rounds they have posts and the preferred summaries, and they use that data to train a reward model to calculate a grading system where the higher the reward, the more the reward model finds the summary to be aligned with human preference.
+
+
+
+
+Reinforcement Learning with Human Feedback
+₍₃₎
+The reward values are then used as feedback to the policy, helping it to learn the patterns of human preference in summaries by positively reinforcing high reward policies and negatively reinforcing low reward policies. 
+
+And this process is repeated until the models are producing a summary that is more preferred than human written summaries.
+
+Human Feedback can improve the output of GenAI
+₍₃₎
+The difference in performance is shown in another visualization from the same Open AI paper. 
+
+Here performance is measured by how often summaries from a model are preferred to the human-written reference summaries. 
+
+At the bottom are the least performant early versions of GPT-3 in light blue, next in green are supervised models fine-tuned to predict 117K human-written TLDR summaries, and human feedback models in orange are additionally fine-tuned on a dataset of about 65K summary comparisons with RLHF, outperforming the other models.
+
+I share these results to demonstrate the value that human feedback has in optimizing GenAI models, and how important it is for producing desired output. 
+
+This leads us to the second term of our equation.
+
+AI + Bio = G-Data
+G-Data Formula
+Biometrics
+
+At G-Data Labs we are testing Biometric Data as a form of human feedback for RLHF and similar processes. 
+
+We find that using various biometrics to train AI models can enable them to better understand the values of humans.
+
+EEG
+FEA
+GSR
+ET
+Biometrics
+And this notion has led our team to conduct a number of exploratory studies. And while they have remained small, we have collected data from Electroencephalograms, Facial Expression Analysis, Galvanic Skin Response and Eye Tracking.
+
+Describe your ideal personal space.
+Q1
+Q2
+Q3
+Individual is asked to answer 3 prompts. 
+Describe your ideal vacation location.
+Describe your ideal meal.
+Methodology
+AI + Bio = G-Data
+₍₄₎
+One of our earlier studies was conducted with iMotions at their headquarters in Boston during the Fall of 2022. 
+
+Our methodology was to ask a group of 9 people to describe their ideal personal space, ideal vacation location, and ideal meal. We then used those responses as prompts for a text-to-image model named Stable Diffusion v1.4, and the model output 5 images for each prompt. 
+
+Ideal Personal Space: Eye Tracking Heat Map
+₍₄₎
+“A space with a comfortable chair, big window with opportunity for fresh air, a view of a body of water and trees.”
+
+
+As an example, here is a set of images produced from the description of a person’s ideal personal space. It’s described as “A space with a comfortable chair, big window with opportunity for fresh air, a view of a body of water and trees.” 
+
+We then used biometric devices to measure the person’s response to observing the images. 
+
+Here our goal was to study preference and so we showed the images individually then as a grid and asked each person which image they preferred.
+
+From the top left to the bottom center we labeled these images as 1,2,3,4, and 5. I’d like to invite you to consider which of these images you prefer, or which you think most captures the description of the prompt? 
+
+Can anyone share their preference through a show of fingers?
+
+
+Ideal Personal Space: Eye Tracking Heat Map
+₍₄₎
+In most instances, the image that held the person’s gaze the longest was the preferred image.
+
+
+For those that chose image #1 in the top left, you agreed with the participant.
+
+When we analyzed the eye tracking heat map, we found that gaze was a strong predictor of preference. It would seem that respondents put more attention to those images that they prefer.Since then we were able to create video and audio for the preferred images using Runway ML’s Gen 2 model for video, and ElevenLabs Sound Effects for the audio. Let’s observe.
+
+
+Ideal Personal Space: Eye Tracking Heat Map
+₍₄₎
+We can generate video & audio for the preferred image.
+
+
+
+
+
+Ideal Vacation Location Images (Stable Diffusion 1.4)
+₍₄₎
+₍₄₎
+These are preferred images for a person’s ideal vacation location. They all seem like very nice places to relax to me.
+
+Do you notice any patterns in these images, such as in color or location?
+
+Ideal Vacation Location: GSR
+All Questions
+
+
+₍₄₎
+Preferred class showed lower peak count in Q2 compared to all questions.
+
+
+Q2
+
+
+We noticed in the galvanic skin response data that preferred vacation images had a lower peak count of skin conductance when compared to preferred meal and personal space images. 
+
+This suggests that these stimuli are less stressful than others, and may induce a more relaxed state for the participant. 
+
+Ideal Meal (Stable Diffusion 1.0)
+₍₄₎
+Here are some of the preferred images of ideal meals among participants. 
+
+You may notice AI’s rendition of a pill that provides all your nutritional needs for an entire month.
+
+Ideal Meal: FEA
+₍₄₎
+Preferred class showed slight increase in Sentimentality Time Percentage.
+
+
+When analyzing facial expression data for preferred ideal meals, we noticed an increase in the amount of time people showed a sentimental expression. 
+
+This could suggest that positive memories are induced when people observe images of their ideal meal.
+
+All Ideal Prompts: EEG
+₍₄₎
+Frontal Alpha Asymmetry analysis suggests a more positive affective state when viewing preferred images. 
+We also analyzed Frontal Alpha Asymmetry with EEG as a proxy for preference.
+
+We calculated the FAA z-scores to get a measure comparable between people and questions, and found that the average z-score for FAA was higher when people observed their preferred images for certain questions, particularly their ideal personal space and ideal meal.This could be interpreted as participants experiencing a more relaxed and positive affective state when viewing images they preferred.
+
+
+AI + Bio = G-Data
+Formula
+Ethical AI
+We are finding at G-Data labs that AI + Biometrics is a beneficial partnership. We collect human preference data to train AI to produce desired output, not only in a general sense, but also on an individual and personal level.
+This is the unique value that I believe neuromarketing can bring into the AI space, and I think the value of human preference data will greatly increase as these models are integrated more into our lives.
+
+AI Problem Statement
+Challenges G-Data aims to solve:
+AI + Bio = G-Data
+The Jobs Issue
+The Copyright Concern
+The AI Alignment Problem
+Public Distrust
+Admittedly there are many big challenges that have to be addressed for safe, effective, and beneficial adoption of GenAI.There is The Jobs Issue, The Copyright Concern, The Alignment Problem, and Public Trust among others.When I realize that all of the jobs I held both past and present could be replaced by AI within x amount of years, I consider the impact these models will have on people’s ability to financially support themselves.With the copyright concern there is current litigation against companies like Microsoft and Google over the use of trademarked and copyright data for training GenAI without expressed permission or compensation.Perhaps the most concerning hurdle of all is the Alignment Problem. AI still needs to be aligned to human values for effective use in sectors like health care and energy, as there can be a number of undesirable outcomes.Because of this uncertainty as to how AI will impact our lives, Public Distrust is high. How can we learn to trust in these models to perform tasks that have great consequence? 
+
+AI + Bio = G-Data
+Case Study: Actors\Writers & AI
+₍₅₎
+To learn more about the Jobs Issue, my team and I visited LA to observe the SAG/AFTRA strikes in real time around its 100th day.
+These protests were being held at all of the large television and film studios in town. I came to understand that many were protesting the use of GenAI to replace human performers in film and tv. 
+Others were against training AI performers on an artist’s previous work. 
+Still some wanted to protect consent on how their data was used, as in changing their image or portraying it in scenarios they did not approve.I’d like to share Bryan Cranston’s sentiments on the matter, here he is addressing Bob Iger, CEO of Disney.
+
+₍₅₎
+Strong polarity in opinion on selling personal data
+AI + Bio = G-Data
+While we spoke with many actors, writers, and musicians at the protests, again due to Public Distrust in AI, many did not want to be put on record. Like our previous study, these are not statistically significant results, but capture the sentiment of the total group that we interviewed.
+
+Here we can see there is strong polarity in how artists feel about selling their personal data to train AI models.
+
+Variety in preference for selling personal data
+AI + Bio = G-Data
+₍₅₎
+This bar plot suggests that more people feel comfortable sharing their browsing history, social media activity, facial expressions, and brainwave data, and less comfortable about sharing their eye tracking, audio capture, and heart rate data.
+
+AI + Bio = G-Data
+₍₅₎
+Overall negative sentiment to AI
+In terms of overall sentiment where 1 represents most negative, and 5 represents most positive. It would seem that at the time of the study, there was more negative sentiment towards AI.
+
+AI + Bio = G-Data
+₍₅₎
+Most strongly agree with the right to sell personal data
+However, when asked if a person should have the right to monetize their own personal data, 80% felt a person should have those rights.
+
+AI + Bio = G-Data
+₍₅₎
+All need to provide explicit consent for data usage
+Likewise when asked if a person should need to give explicit consent before their data is sold and used, all participants felt that it was very important.
+
+AI + Bio = G-Data
+₍₆,₇₎
+Since that study the SAG/AFTRA protests did result in an agreement between performers and entertainment companies, which focuses on artist consent and compensation. This strongly aligned with the results of our interviews. 
+
+Studying the agreement I see trends that will migrate into other fields, until general artificial intelligence may be used in every sector of the world economy.
+
+Still some studio heads such as Tyler Perry have seen capabilities like these from OpenAI’s Sora, which prompted him to indefinitely halt an $800 million dollar studio expansion in Atlanta. He acknowledged he had already saved money and time by using AI for aging effects in two films the studio had produced.
+
+Informed Consent
+Granular Consent
+Personal Data Valuation
+AI Solution Statement
+AI + Bio = G-Data
+So at G-Data, we have built a platform that implements informed consent, granular consent, and personal data valuation as a means to solve these looming challenges in AI.
+
+We find that many of the mechanisms we have developed on our platform fit the SAG\AFTRA agreement for use of an artist’s data, especially for compensation and conspicuous consent.
+
+Here we define Informed Consent as consent given with a confirmed understanding of one’s agreement, and the legal and socio-economic implications.
+
+We integrate granular consent enabling a person to choose what use cases different types of their data may and may not be used for.
+
+And finally, we enable a person to appraise their own data. Our G-Data Exchange works much like a Stock Exchange, where a person can set and negotiate the selling price of their data.
+
+AI + Bio = G-Data
+Measure:
+Joy(Happy)
+Anger
+Surprise
+Fear 
+Contempt 
+Sadness
+Disgust
+Facial
+Expression Analysis
+₍₈₎
+Through our platform, a person can prompt GenAI models that output text and images, and soon audio and video.
+
+A person can choose to record their interactions with these models to collect Facial Expression, Eye Tracking, and Audio data for sale. 
+
+With this data buyers can measure emotion and train AI models to produce a more desired output for their consumer base.
+
+
+Consent for Data Usage
+AI + Bio = G-Data
+₍₉₎
+Granular consent enables consent for use cases of different data types
+A person can also upload personal data such as current emotions, journaling, daily images, and more. 
+
+Here an artist can even upload data related to their work, and set consent restraints to define how that data may be used.
+
+LLM’s can translate legal documents to ensure informed consent
+AI + Bio = G-Data
+Terms and Conditions Translation
+₍₁₀₎
+We have also deployed mechanisms for informed consent such as using LLM’s to translate the terms of conditions and policies on our site to ensure people understand how their data is collected and used.Here our future work involves fine-tuning LLM’s to translate these legal documents in a style and reading level that best matches the person’s.
+
+A person can declare a value for their personal data.
+AI + Bio = G-Data
+₍₁₁₎
+G-Data Exchange
+And lastly, a person or corporation can then sell their data on our market exchange. 
+
+Here buyers must state their intended use for the data, and have the use case approved by the seller in order to purchase it.
+
+Future Work
+
+G-Data Campaign for Data
+Develop custom G-Data AI models
+AI + Bio = G-Data
+We want people to be educated, entertained, and empowered by their interaction with AI.
+
+To that end our future work involves showcasing the capabilities of cutting edge AI, and capturing real-time data from their interaction with people.
+
+Our long term goal is to build a global community of people that financially gain from the sale of their own data.
+
+Team
+Morgan Jones: Founder & Chief Data Scientist
+Kelly Jarvis: Research Coordinator
+Devin Gore: Researcher & EEG Tech
+Ashley Martin BCBA/LPC: ABA & MH Consultant
+Erin Jarvis BCBA/LPC: ABA & MH Consultant
+Chance Jones: A.I Ethics Researcher
+Erica Collier: Complementary Health Consultant
+Haris Muhammed: Front-End Software Developer
+Tahir Muhammed: Back-End Software Developer
+Taylor Jarvis: Software Quality Engineer
+Krzysztof Basinski: Cognitive Neuroscience Consultant
+G-Data
+I would like to thank my team that has been working on this goal with me, their work is invaluable to myself and G-Data Labs.
+
+Thank You
+Please feel free to contact me at morgan.jones@g-datalabs.comwww.linkedin.com/in/morgan-jones-datascience/ 
+AI + Bio = G-Data
+And I would like to thank you for your time and attention today. 
+
+Please feel free to visit our website g-datalabs.com to find out more, and I open the floor to any questions : )
+
+Appendix
+0.) https://youtu.be/ug6MJ_CRJHI 
+1.)https://medium.com/@morganjonesartist/the-ai-models-that-could-increase-diversity-inclusion-in-media-132cf19858cf 
+2.)https://nypost.com/2024/03/04/business/google-co-founder-sergey-brin-admits-company-messed-up-on-gemini/ 
+3.)https://openai.com/research/learning-to-summarize-with-human-feedback
+4.) https://www.g-datalabs.com/blog/blog-post-3
+5.) https://www.g-datalabs.com/blog/blog-post-2 
+
+Appendix
+6.)https://www.hollywoodreporter.com/business/business-news/tyler-perry-ai-alarm-1235833276/ 
+7.) https://www.youtube.com/watch?v=HK6y8DAPN_0&t=281s 
+8.) https://ai.g-datalabs.com/ 
+9.) https://ai.g-datalabs.com/my_g-data/consent 
+10.) https://www.g-datalabs.com/terms_condition 
+11.) https://ai.g-datalabs.com/our_g-data/assets 
+https://www.g-datalabs.com/blog/blog-post-3

@@ -1,0 +1,152 @@
+G-Data Sales Deck
+G-Data Labs
+Founder: Morgan Jones
+
+In today's digital age, individuals generate vast amounts of personal data but lack control over how it is used and monetized. Many are also expected to experience job displacement due to AI adoption.
+Problem Statement
+
+Our platform leverages advanced AI and biometric technologies to provide real-time data management, secure transactions, and personalized user insights. Users can easily track, control, and monetize their data with our intuitive interface.
+Solution
+
+The personal data market is projected to reach $400 billion by 2025, driven by increasing awareness and demand for data privacy and ethical data monetization solutions.
+Market Opportunity
+
+Market
+2024 Market Size (Billion)
+2030 Market Size Projection (Billion)
+Estimated SAM (Billion)
+Estimated SOM (Billion)
+Key Drivers/Applications
+Artificial Intelligence (AI)
+$298.25
+$1,850
+$185
+$9.25
+Advancements in AI algorithms, computing power, and applications in healthcare, automotive, finance, and retail.
+Biometrics
+$42.9
+$99.6
+$19.92
+$1.992
+Fingerprint, facial, iris, and vein recognition for security and identification.
+Data Monetization
+$2.9
+$8.6
+$2.58
+$0.387
+Increasing data generation, big data analytics, and need for actionable insights in retail, finance, healthcare, and telecom sectors.
+Total
+-
+$1,960.2
+$207.5
+$11.63
+
+Strategic Focus Areas: By focusing on ethical AI, advanced biometrics, and data monetization, G-Data addresses critical needs and emerging trends in these sectors.
+Market Analysis
+
+Facial Expression Analysis:
+Joy(Happy)
+Anger
+Surprise
+Neutral
+People collect their data for AI training
+Product Overview
+https://www.g-datalabs.com/ 
+
+Product Overview
+Industry First
+
+Using LLMs to translate company policy
+
+Product Overview
+Customizable consent for personal data usage in AI training and selling.
+
+Product Overview
+
+Buying/Selling Personal Data Assets in a 
+Data Marketplace Exchange
+
+G-Data Labs
+Business Model
+- Transaction Fee on G-Data Exchange
+- Ethical AI Model fine-tuning
+- Ethical AI Strategy Consultation
+- Embedded advertising on Platform
+- AI generated content Design & Development
+
+Key Feature Rollouts
+Beta Testing
+Research & Development
+Traction
+
+Unlike our competitors, G-Data prioritizes user empowerment, offering unmatched transparency, security, and control over personal data. Our unique AI and biometric integration sets us apart in the market.
+Competitive Analysis
+
+Factor
+G-Data
+OpenAI
+Anthropic
+Inflection
+Business Model
+Data monetization for individuals
+AI research and deployment
+AI safety and research
+AI-driven personal assistants
+Primary Product/Service
+AI and biometric data marketplace
+Language models (e.g., GPT series)
+AI safety research, language models
+Personalized AI interaction tools
+Consent Levels
+High, explicit user consent for data usage
+Moderate, some user consent options
+High, emphasis on safety and consent
+Moderate, user-centric approach
+Transparency
+High, full transparency on data usage and earnings
+Moderate, open research but some opacity in operations
+High, focuses on AI explainability
+Moderate, transparent user interactions
+Fairness
+High, equitable data revenue sharing
+High, focus on reducing biases
+High, ethical AI emphasis
+High, fairness in AI interactions
+AI Safety and Ethics
+Core principle, prioritizing user data rights
+Strong, active in AI ethics research
+Core principle, safety-focused
+Strong, ethical AI interactions
+Data Ownership
+Users retain ownership, can sell their data
+Data typically owned by the platform
+Users retain significant control
+Users retain some control
+Competitive Partners
+
+Morgan Jones: Founder & Chief Data Scientist
+Kelly Jarvis: Research Coordinator
+Devin Gore: Researcher & EEG Tech
+Ashley Martin BCBA/LPC: ABA & MH Consultant
+Erin Jarvis BCBA/LPC: ABA & MH Consultant
+Chance Jones: A.I Ethics Researcher
+Erica Collier: Complementary Health Consultant
+Haris Muhammed: Front-End Software Developer
+Tahir Muhammed: Back-End Software Developer
+Taylor Jarvis: Software Quality Engineer
+Krzysztof Basinski: Cognitive Neuroscience Consultant
+Ours is a unique team focused on several aspects of a human-centric approach to AI
+Team
+
+We are seeking $2 million in funding to: 
+
+- Develop our Blockchain for AI training data 
+- Enhance our platform UI and AI
+- Expand our marketing efforts
+Ask
+
+Join G-Data in transforming the personal data landscape. Empower users, drive innovation, and achieve sustainable growth. Contact us to learn more and get involved.
+
+Contact:
+morgan.jones@g-datalabs.com
+Thank You

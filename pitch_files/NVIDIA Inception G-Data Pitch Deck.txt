@@ -1,0 +1,225 @@
+G-Data
+Empowering Individuals to Own and Monetize Their DataFounder: Morgan Jones
+
+
+Company Summary
+G-Data Labs is an Atlanta-based AI and biometrics research lab focused on developing responsible AI frameworks​. Our mission is to revolutionize the AI training data market by creating a secure, consent-driven platform where people can own and monetize their data​. We empower people to profit from their personal data and improve their AI literacy, while ensuring AI developers access high-quality, ethically sourced training data​. 
+
+The Problem
+The Problem
+• Economic Displacement & Livelihood Concerns – As AI technologies automate more roles, there is a risk of disenfranchising workers and disrupting traditional livelihoods. – Without mechanisms for people to earn from AI development, many may be left out of the economic benefits, exacerbating inequality.
+• Data Bottleneck for AI Development – State-of-the-art models require vast amounts of high-quality data, yet the supply of new, reliable data is shrinking. – This data bottleneck threatens to slow AI progress, as developers struggle to source the fresh inputs needed to push innovation further.
+• AI Literacy & Public Engagement – Many individuals remain intimidated by AI and lack the support or education to understand its benefits and applications.
+
+
+The Problem
+Data Privacy & Exploitation Concerns: AI systems today often rely on personal data collected without clear consent, leading to privacy violations and public distrust. Individuals have little control over or compensation from when their data is used to train AI.
+AI Bias & Misuse: Biased training datasets can produce unfair, discriminatory AI outcomes. There is a real risk of AI systems perpetuating biases or being misused, undermining their reliability and social acceptance.
+Economic Displacement: As AI and automation advance, many workers fear job loss and economic displacement without alternative ways to participate in the AI-driven economy. The benefits of AI innovation are not broadly shared, fueling inequality and backlash against AI adoption.
+
+
+
+The Solution
+Consent-Driven Data Marketplace: We are launching an innovative platform where people can securely contribute their data for AI training and get paid for it. By rewarding people for their data, we create economic opportunities and ensure a sustainable supply of fresh, high-quality data for AI developers​. This consent-based data marketplace turns personal data into a personal asset, empowering users while easing the data bottleneck in AI development.
+Responsible AI Research: G-Data Labs conducts ongoing research into the psychological and socio-economic impacts of AI​. These insights continuously refine our ethical frameworks for AI. By studying human-AI interaction, we ensure our platform’s data is used in ways that ultimately benefit people and reduce harmful outcomes.
+AI Literacy & Community Engagement: We run education initiatives like our “Generate Data Campaign” to demystify AI for the public​. Through workshops and a Mobile AI Lab a traveling AI education and data collection hub, we teach communities how to use AI tools and safely contribute data. This boosts AI literacy and builds a community of engaged, informed data contributors​. By making AI more accessible, we grow our user base and ensure people displaced by automation can re-skill and earn income in the AI economy.
+
+
+
+The Solution
+Your Solution
+• Empower Economic Resilience & Fuel a Sustainable Data Ecosystem – Launch an innovative, ethically driven data marketplace that rewards individuals for contributing their personal data. – This integrated platform not only creates economic opportunities for data contributors but also ensures a continuous supply of high-quality, fresh data for AI development, helping overcome the current bottleneck.
+• Advance Responsible AI through Rigorous Research – Conduct in-depth studies on the psychological and socio-economic impacts of AI outputs. – Leverage these insights to refine our ethical framework and ensure that the data used to train AI is deployed in ways that ultimately benefit humanity.
+• Boost AI Literacy & Community Engagement – Implement our Generate Data Campaign to demystify AI and educate communities on its benefits and practical applications. – Through direct outreach and hands-on training, we empower individuals to embrace AI technologies, ensuring they remain active participants in the evolving digital economy.
+
+
+What Makes Us Unique
+Our approach combines technology, ethics, and community in a way that competitors can’t easily replicate. First, we practice responsible data sourcing with explicit user consent – every data contributor knows and agrees to how their data will be used. Second, we leverage advanced privacy and biometric security to safeguard data integrity (including cutting-edge facial recognition and fingerprint ID for user verification)​. Third, we are research-driven, continuously studying AI’s social impact to inform our product design and ensure fair, bias-mitigated data practices. Finally, this holistic integration of consent, privacy tech, and ethics research gives us a competitive edge that is hard to copy – a human-centric AI data ecosystem built on trust and transparency. We transform personal data into a personal asset while upholding the highest standards of responsible AI.
+
+What Makes Us Unique
+What Makes You Unique
+• Responsible Data Sourcing with Engager Consent – Unlike competitors who rely on opaque data practices, our platform empowers users by ensuring every data contribution is made with clear, active consent. – This consent-centric approach builds trust and creates a community-driven data ecosystem that directly rewards contributors.
+• Advanced Privacy & Data Integrity Technologies – We leverage cutting-edge biometric security and proprietary AI algorithms to safeguard data and maintain its quality. – This robust technological foundation sets us apart from traditional data brokers and less rigorous data marketplaces.
+• Research-Driven Insights – Our ongoing studies examine the socio-economic and psychological impacts of AI, enabling us to continuously refine our responsible data usage model. – These research efforts ensure that our training data not only fuels innovation but does so in a way that benefits society.
+• Competitive Edge & Difficult Replicability – The unique integration of a consent-centric framework, advanced technology, and rigorous research creates an ecosystem that is hard to replicate. – While competitors may offer isolated solutions, our holistic approach differentiates us and establishes a sustainable competitive advantage.
+
+Current Traction
+Pilot Engagements & PoCs: We have launched several pilot programs and proof-of-concept projects with early adopters. These pilots with strategic partners validate our platform’s functionality and our consent-based data sourcing model​. Early participants have successfully contributed data and received compensation, demonstrating the marketplace mechanics and real-world interest.
+Market Research & Community Outreach: Extensive market research with groups affected by AI automation confirmed a strong need for alternative income sources through data monetization​. Our recent community workshop for middle schoolers on generative AI and data literacy was full with enthusiastic feedback, underscoring public interest in AI education​. These activities not only spread awareness but also build a pipeline of future users who are eager to engage with our platform.
+Early Feedback & Validation: Initial users and pilot participants have given very positive feedback on G-Data’s platform. Testers praise the intuitive design, robust security (biometric login and consent controls), and the innovative concept of getting paid for one’s data​. This early validation has helped refine our user experience and provides confidence in product–market fit. We are also in discussions with additional industry partners and academic institutions to expand our reach, highlighting strong future demand.
+
+
+Funding
+Funding
+• How much money have you currently raised? – We’ve bootstrapped our operations to date with approximately $20k in funding.
+• How much do you plan to raise in this round? – We are seeking $750k in our current funding round.
+• Why are you raising funds? – The capital will enable us to create and run our Mobile AI Lab—an innovative, on-the-ground platform for deploying our biometric and data collection technologies—and to significantly upgrade our website and AI platform. These enhancements are essential for scaling our responsible data marketplace and ensuring robust user engagement.
+• What will you use the funds towards? – Mobile AI Lab: Covering vehicle acquisition and outfitting the lab with state-of-the-art AI, robotics, and  biometric equipment (estimated between $200k and $450k). – Platform Enhancements: Upgrading our AI platform—including server improvements, security enhancements, API compute costs, and overall functionality upgrades—to ensure a seamless, high-quality user experience. – Operational Expenses: Funding travel, event security, and marketing initiatives that support our data collection campaigns and expand our market presence.
+
+Your Team
+
+SLIDES TO PULL FROM
+
+
+
+AI Has an Ethics Problem
+Data Exploitation and Privacy Concerns
+
+Job Displacement Due to Automation
+
+Copyright Infringement by AI
+
+Lack of Public Trust in AI
+
+AI Bias and Potential for Misuse
+
+G-Data 
+The Ethical Data Monetization Solution
+Ethical Data Capture
+Informed & Granular Consent
+Negotiation of Compensation
+Responsible AI Research
+We transform personal data into a personal asset.
+
+Our Platform features:
+
+Informed Consent
+Industry First
+
+Using LLMs to translate company policy
+
+Facial Expression Analysis:
+Joy(Happy)
+Anger
+Surprise
+Neutral
+People collect their data for AI training
+Ethical AI Data Capture
+
+Granular Consent
+Customizable consent for personal data usage in AI training and selling.
+
+Negotiation of Compensation
+
+Buying/Selling Personal Data Assets in a 
+Data Marketplace Exchange
+
+Research
+Biometric data as human feedback for training smarter, more personal AI that understand our preferences
+
+B2C Customers who Benefit from G-Data
+Data Contributors: Everyday tech engagers generating valuable data.
+
+Motivation: Earn passive income from the data they already create with their consent.
+
+Use Cases:
+AI Engagers: Contribute data from interactions with AI chatbots, virtual assistants, and other AI systems.
+Social Media Users: Monetize their posts, likes, and engagement data.
+
+Smart Device Owners: Share and monetize data from their smartphones, smartwatches, smart cars, and IoT devices.
+
+B2B Customers who Benefit from G-Data
+AI Developers/Researchers: Organizations building responsible and effective AI.
+
+Motivation: Access to high-quality, ethically sourced data to train and improve AI models. Reduce bias, enhance performance, and build trust.
+
+Use Cases:
+
+AI Model Training: Acquire diverse and representative datasets for training various AI applications.
+
+AI Bias Mitigation: Use G-Data's consent framework to ensure fairness and inclusivity in AI development.
+
+Human Feedback for AI: Leverage G-Data's platform to collect real-time feedback and improve AI interactions.
+
+- G-Data Exchange Commission on all data transactions. Scales with platform growth.
+- Ethical AI Strategy Consultation Expert guidance on AI strategy and implementation.
+Scaling Data Ownership: 
+     G-Data’s Business Model
+
+To build a global ecosystem where individuals own and control their data, benefiting financially from its use in AI development. We envision a future where data empowers, not exploits.
+Vision of a Global Community of Data Owners
+
+
+Strategic Partnerships
+Tech & AI Companies, Educational Institutions
+Community Building	Mobile AI Lab Generate Data Campaign
+Targeted Marketing & Education	Influencer & Thought Leader Outreach
+
+Go-to-Market Strategy
+
+Key Competitors in the AI Training Data Space
+Company
+Focus Area
+Key Features
+Key Customers
+Market Position
+Scale AI
+Data labeling and annotation services
+Automated and human-in-the-loop labeling
+OpenAI, Waymo
+Leader in training data services
+Turing
+Human training services for AI
+Specialized human trainers for AI labs
+Major tech firms
+$300M revenue, rapid growth
+iMerit
+Annotation and enrichment services
+Autonomous vehicles, healthcare, etc.
+Leading tech and retail
+Strong focus on high-quality annotations
+Labelbox
+Collaborative data annotation platform
+Customizable workflows and labeling tools
+ML developers
+Popular among mid-sized ML projects
+Dataloop
+Data management and annotation tools
+Integrated pipeline for data preparation
+Various AI-driven firms
+Streamlined operations for data workflows
+
+Team
+Morgan Jones: Founder & Chief Data Scientist
+Devin Gore: Researcher & EEG Tech
+Haris Muhammed: Front-End Software Developer
+Tahir Muhammed: Back-End Software Developer
+Ours is a unique team focused on several aspects of a human-centric approach to AI
+
+
+G-Data is uniquely positioned to capture a significant share of this growing market by focusing on responsible data sourcing, empowering individual data ownership, providing valuable tools and services for both data contributors and AI developers.
+Capitalizing on the Growing AI Training Data TAM
+Metric
+2024 (Billions)
+Data Monetization Market Size
+$2.9
+G-Data’s SOM
+$0.387
+
+Validating the Market & Building Traction
+Market Validation: 
+83% believe GenAI can promote inclusion in media (Survey, 2020)
+SAG/AFTRA interviews confirmed need for data consent & compensation (2023)
+Tech & Research: 
+Industry-first informed consent framework using LLMs (2022)
+EEG studies validate use of biometrics for personalized AI (2022)
+Beta testing: Biometric data analysis for AI & relaxation (2024)
+Industry Engagement: 
+Presentations at NMSBA & Reiki Research conferences (2024)
+
+Our Ask: Investment Tiers
+Seed Round - Launch $240,000
+
+Develop core platform features
+Biometric data collection capabilities. 
+Secure early adopters and establish the G-Data marketplace.
+Series A - Expand$450,000
+
+Expand platform functionality
+Launch a smaller-scale mobile lab for targeted data collection campaigns 
+Scale engager acquisition, and establish strategic partnerships.
+Series B - Scale $864,000
+
+Aggressive platform scaling 
+Develop advanced AI models using the collected data
+Expand into new market segments.

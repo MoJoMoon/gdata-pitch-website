@@ -1,0 +1,99 @@
+G-Data Milestones
+Founder: Morgan Jones
+Founded July 2022
+
+
+We research, develop, and deploy state-of-the-art AI Ethics Frameworks that power responsible AI.
+Founded July 2022
+
+G-Data Labs Innovations
+Employed LLM’s to translate policy and terms to customers to promote Informed consent
+
+Granular consent for sharing specific tokens of AI training data
+
+Market Exchange for AI Training Data 
+
+RLBF for optimized AI generated images and video from biometric feedback
+
+₍₁₎
+June 2020 (Prior to founding)
+GenAI Public Sentiment Research
+We developed an ad campaign to gather public sentiment on GenAI’s influence on diversity inclusion in media.
+After developing this prototype I continued to explore Generative Artificial Intelligence. 
+
+And while at the Flatiron School’s Data Science 2020 cohort I was particularly interested in how this technology would impact diversity inclusion in media. 
+
+So I worked on a system of models that could create life-like faces, and mask them on the faces of people in content. At that time this concept was a bit more novel and referred to as “deepfakes” so I developed a brief introduction to the idea for people to understand that I would like to share with you.
+
+Could Generative AI promote Diversity Inclusion in Media?
+83% say YES GenAI could increase the amount of diversity within media
+₍₁₎
+Overall 83% of the respondents felt that Generative AI could promote Diversity Inclusion in Media.
+
+And I found this fascinating!That work was eye opening for me. I felt that there was something transformative on the horizon. Something that could bring more fairness into people's’ lives if used effectively. 
+
+64.4% of respondents are interested in seeing
+themselves in television and films.
+₍₁₎
+I found that many people were interested in augmenting their favorite television shows and movies, with most people choosing to see themselves or loved ones represented in their content.
+
+Informed Consent
+Industry First
+
+Using LLMs to translate company policy
+October 2022
+
+Biometric Research
+Biometric data as human feedback in RLHF for training smarter, more ethical AI that understand our preferences
+October 2022
+
+Frontal Alpha Asymmetry analysis suggests a more positive affective state when viewing preferred images.
+Biometric Research
+October 2022
+
+₍₅₎
+Interviews from SAG/AFTRA protestors against AI disenfranchisement.
+August 2023
+GenAI Public Sentiment Research
+To learn more about the Jobs Issue, my team and I visited LA to observe the SAG/AFTRA strikes in real time around its 100th day.
+These protests were being held at all of the large television and film studios in town. I came to understand that many were protesting the use of GenAI to replace human performers in film and tv. 
+Others were against training AI performers on an artist’s previous work. 
+Still some wanted to protect consent on how their data was used, as in changing their image or portraying it in scenarios they did not approve.
+
+₍₅₎
+August 2023
+Strong need for consent and compensation amongst group.
+To learn more about the Jobs Issue, my team and I visited LA to observe the SAG/AFTRA strikes in real time around its 100th day.
+These protests were being held at all of the large television and film studios in town. I came to understand that many were protesting the use of GenAI to replace human performers in film and tv. 
+Others were against training AI performers on an artist’s previous work. 
+Still some wanted to protect consent on how their data was used, as in changing their image or portraying it in scenarios they did not approve.
+
+Negotiation of Compensation
+
+Buying/Selling Personal Data Assets in a 
+Data Marketplace Exchange
+March 2024
+
+Biometric Research
+Using EEG to compare relaxation levels between video AI models and Reiki
+Sora - OpenAI
+Gen2 - Runway
+Pika1.0 - PikaLabs
+June 2024
+
+Picalabs produced the most relaxing stimuli for the participant.
+Biometric Research
+For Beta, overall Reiki is associated with less activity than other conditions indicating that Reiki is most relaxing for the participant.
+RunwayML is a bit more similar to Reiki
+All three AI models perform comparably
+
+We can compare the relaxation levels of different prompts. For this participant, Puppy Cloning was the most relaxing stimulus. 
+Biometric Research
+
+Platform Demo
+
+Featured Conferences
+NMSBA World Forum March 2024
+Ethical AI Data Capture & the Monetization of Biometric Datasets
+Center for Reiki Research June 2024
+Electric Relaxation: Evaluating the Effectiveness of Reiki and AI-Generated Video Content on Relaxation, an EEG-Based Study
