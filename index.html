@@ -1285,7 +1285,7 @@
             if (!carousel) return;
 
             const track = carousel.querySelector('.carousel-track, .impact-carousel-track');
-            const slides = Array.from(track.children);
+            const slides = Array.from(track.children).filter(child => child.nodeType === 1);
             const nextButton = carousel.querySelector('.next');
             const prevButton = carousel.querySelector('.prev');
             
